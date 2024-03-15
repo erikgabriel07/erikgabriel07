@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
 <h3 align="center">A passionate Back-End developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikgabriel07&label=Profile%20views&color=0e75b6&style=flat" alt="erikgabriel07" /> </p>
+
 - 🌱 I’m currently learning **FastAPI, Docker, Java, C++, C.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/erikgabriel07/MyProjects](https://github.com/erikgabriel07/MyProjects)
 
 - 💬 Ask me about **Python, FastAPI, Java, C++, C**
 
@@ -17,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erikgabriel07&show_icons=true&locale=en&layout=compact" alt="erikgabriel07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erikgabriel07&show_icons=true&locale=en" alt="erikgabriel07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erikgabriel07&" alt="erikgabriel07" /></p>
