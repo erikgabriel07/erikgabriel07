@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **erikalgads@gmail.com**
 
-- ✨ **See my LinkedIn profile:** [Erik Gabriel](https://www.linkedin.com/in/erik-gabriel-7841b928a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- ✨ See my LinkedIn profile: **[Erik Gabriel](https://www.linkedin.com/in/erik-gabriel-7841b928a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
