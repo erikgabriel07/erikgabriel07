@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FastAPI, Docker, Java, C++, C.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/erikgabriel07/MyProjects](https://github.com/erikgabriel07/MyProjects)
+- 👨‍💻 All of my projects are available at [https://github.com/erikgabriel07?tab=repositories](https://github.com/erikgabriel07?tab=repositories)
 
 - 💬 Ask me about **Python, FastAPI, Java, C++, C**
 
