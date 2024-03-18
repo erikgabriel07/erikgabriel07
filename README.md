@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erik</h1>
-<h3 align="center">A passionate Back-End developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikgabriel07&label=Profile%20views&color=0e75b6&style=flat" alt="erikgabriel07" /> </p>
+<h3 align="center">A passionate Back-End developer from Brazil</h3>
 
 - 🌱 I’m currently learning **FastAPI, Docker, Java, C++, C.**
 
